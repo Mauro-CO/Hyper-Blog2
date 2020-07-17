@@ -1,6 +1,8 @@
 Esta es la historia de Mau
 
 Mau tiene 21 años, nació en México, 
-viviendo en CDMX
+viviendo en CDMX.
+
+Pronto será un data scientist muy reconocido.
 
 Mañana nos enfocaremos en su corta vida laboral.
