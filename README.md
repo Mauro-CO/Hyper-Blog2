@@ -1,2 +1,2 @@
-# Hyper-Blog2
-This is a repository copy
+# Hyper-Blog
+Git and Github test for platzi course
